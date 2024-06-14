@@ -1,0 +1,27 @@
+
+body
+{
+   
+    background-color: #259199;
+    padding: 1rem;
+}
+h2{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.yo{
+    width: 20rem;
+    height: auto;
+    border-radius: 50%;
+    padding: 2rem;
+}
+div{
+    text-align: center;
+
+}
+.gala{
+background-image: url(../img/galaxia.jpg);
+}
